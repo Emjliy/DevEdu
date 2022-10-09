@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M/GHipkSuLyPO4yZAjSgAziD0/pFok+FQiSMOpvGuDhfedhQbx0bn8NWFxP6jkZAT1JG5hBxjO2kqqylWA+sJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emilia\\Desktop\\DivEducation\\DivEduTasks\\DivEduTasks\\DivEduTasks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emilia\\.nuget\\packages\\google.protobuf\\3.21.7\\google.protobuf.3.21.7.nupkg.sha512",
+    "C:\\Users\\Emilia\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Emilia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\bin\Debug\netcoreapp3.1\DivEduTasks.exe
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\bin\Debug\netcoreapp3.1\DivEduTasks.deps.json
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\bin\Debug\netcoreapp3.1\DivEduTasks.runtimeconfig.json
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\bin\Debug\netcoreapp3.1\DivEduTasks.runtimeconfig.dev.json
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\bin\Debug\netcoreapp3.1\DivEduTasks.dll
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\bin\Debug\netcoreapp3.1\DivEduTasks.pdb
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\obj\Debug\netcoreapp3.1\DivEduTasks.csproj.AssemblyReference.cache
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\obj\Debug\netcoreapp3.1\DivEduTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\obj\Debug\netcoreapp3.1\DivEduTasks.AssemblyInfoInputs.cache
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\obj\Debug\netcoreapp3.1\DivEduTasks.AssemblyInfo.cs
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\obj\Debug\netcoreapp3.1\DivEduTasks.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\obj\Debug\netcoreapp3.1\DivEduTasks.dll
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\obj\Debug\netcoreapp3.1\DivEduTasks.pdb
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\obj\Debug\netcoreapp3.1\DivEduTasks.genruntimeconfig.cache
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Emilia\Desktop\DivEducation\DivEduTasks\DivEduTasks\obj\Debug\netcoreapp3.1\DivEduTasks.csproj.CopyComplete
